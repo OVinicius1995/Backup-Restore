@@ -15,9 +15,13 @@ esta devidamente instalado e configurado, caso não esteja ele interage com o us
 as dependências faltantes e segue para a realização da rotina.</p>
 
 </div>
-<br>
-<div><p>OBS: O cenário dessa aplicação foi feito com os moldes atuais do meu cotidiano, para que funcione em outros cenários pode ser que seja preciso readequações no código.</p></div>
+<p>Também sei que ainda podem acontecer diversar melhorias mas essa criação foi somente para aprendizado, e porque eu sempre gostei de criar coisas com o MS-DOS, mas para uma futura versão sei que ainda posso incluir opções para validação de integridade dos bancos, opções para recuperação de bancos corrompidos, disparo de emails, etc...</p>
 
+  <p>Porem como de inicio se tratava apenas de uma opção de backup e restore o sistema já cresceu de mais, mas numa proxima correção talvez venham coisas novas.</p></div>
+
+
+<br>
+<div><p>OBS: O cenário dessa aplicação foi feito com os moldes atuais do meu cotidiano, para que funcione em outros cenários pode ser que seja preciso readequações no código.</p>
 <hr>
 <div align="Center"> 
 <h3>UML</h3>
