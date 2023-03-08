@@ -15,6 +15,9 @@ esta devidamente instalado e configurado, caso não esteja ele interage com o us
 as dependências faltantes e segue para a realização da rotina.</p>
 
 </div>
+<br>
+<div><p>OBS: O cenário dessa aplicação foi feito com os moldes atuais do meu cotidiano, para que funcione em outros cenários pode ser que seja preciso readequações no código.</p></div>
+
 <hr>
 <div align="Center"> 
 <h3>UML</h3>
